@@ -1,0 +1,43 @@
+body {
+	 background-image: url("paw.jpg");
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-size: 50px
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.cloud {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 30px
+}
+.cloud2 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.cloud3 {
+  position: relative;
+  text-align: center;
+  color: black;
+  font-size: 20px
+}
+.cloud4 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+#gif {
+	padding:15px;
+	background-color: white;
+}
